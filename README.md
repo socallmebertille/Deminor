@@ -14,10 +14,10 @@
 ## 📋 Table des matières
 
 - [Description](#-description)
-- [Fonctionnalités](#%EF%B8%8F-installation--lancement)
-- [Installation & lancement](#-installation-&-lancement)
-- [Utilisation](#-utilisation)
-- [Explications du code](#-explications-du-code)
+- [Fonctionnalités](#%EF%B8%8F-fonctionnalités)
+- [Installation & lancement](#%EF%B8%8F-installation--lancement)
+- [Utilisation](#%EF%B8%8F-utilisation)
+- [Explications du code](#%EF%B8%8F-explications--du--code)
 
 ## 🎮 Description
 
