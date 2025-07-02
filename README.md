@@ -22,6 +22,7 @@
 ## 🎮 Description
 
 Ce projet est une version personnalisée du démineur, avec une grille configurable (nombre de lignes, colonnes et trésors).
+
 Deux joueurs s’affrontent en alternance pour découvrir des trésors cachés dans la grille. Chaque case dévoilée donne un score selon la proximité des trésors.
 - Interface graphique simple et intuitive avec Tkinter.
 - Scores affichés en temps réel pour chaque joueur.
