@@ -14,7 +14,7 @@
 ## 📋 Table des matières
 
 - [Description](#-description)
-- [Fonctionnalités](#-fonctionnalités)
+- [Fonctionnalités](#%EF%B8%8F-installation--lancement)
 - [Installation & lancement](#-installation-&-lancement)
 - [Utilisation](#-utilisation)
 - [Explications du code](#-explications-du-code)
