@@ -19,6 +19,8 @@
 - [Utilisation](#-utilisation)
 - [Explications du code](#-explications-du-code)
 
+---
+
 ## 🎮 Description
 
 Ce projet est une version personnalisée du démineur, avec une grille configurable (nombre de lignes, colonnes et trésors).
